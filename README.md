@@ -44,3 +44,8 @@ Lesser known AI tools:
 
 - [Figure 01: Strong AI robot? (by OpenAI)](https://www.youtube.com/watch?v=Sq1QZB5baNw)
 - [Albert learns to walk (Reinforcement Learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
+
+## Contact
+
+selina.blijleven@code-cafe.nl
+Find me on [LinkedIn](https://www.linkedin.com/in/linablijleven/)
