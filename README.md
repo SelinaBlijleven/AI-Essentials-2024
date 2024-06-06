@@ -13,7 +13,10 @@ The exercises have all been adapted into the slides.
 ## Sources:
 
 ### Datasets & models
- 
+
+Both websites contain many useful datasets for use in ML and pre-trained models that 
+can be fine-tuned for more specific needs.
+
 - [https://huggingface.co/models](https://huggingface.co/models)
 - [https://www.kaggle.com/models](https://www.kaggle.com/models)
 
@@ -25,6 +28,9 @@ The exercises have all been adapted into the slides.
 
 ### Articles
 
+- [Replika users fall in love, then lose their AI companions](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
+- [Amazon scraps sexist hiring AI](https://www.bbc.com/news/technology-45809919)
+
 ### Video's 
 
-- [Albert Learns to Walk (Reinforcement Learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
+- [Albert learns to walk (Reinforcement Learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
