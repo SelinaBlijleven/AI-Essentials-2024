@@ -12,6 +12,11 @@ The exercises have all been adapted into the slides.
 
 ## Sources:
 
+### Datasets & models
+ 
+- [https://huggingface.co/models](https://huggingface.co/models)
+- [https://www.kaggle.com/models](https://www.kaggle.com/models)
+
 ### AI Tools
 
 ### Articles
