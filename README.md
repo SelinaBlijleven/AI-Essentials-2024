@@ -17,6 +17,10 @@ The exercises have all been adapted into the slides.
 - [https://huggingface.co/models](https://huggingface.co/models)
 - [https://www.kaggle.com/models](https://www.kaggle.com/models)
 
+### Playgrounds
+
+- [MNIST character recognition playground](https://www.ccom.ucsd.edu/~cdeotte/programs/MNIST.html)
+
 ### AI Tools
 
 ### Articles
