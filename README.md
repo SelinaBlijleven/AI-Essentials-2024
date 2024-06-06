@@ -26,6 +26,15 @@ can be fine-tuned for more specific needs.
 
 ### AI Tools
 
+Lesser known AI tools:
+
+- character.ai
+- thispersondoesnotexist.com
+- jenni ai (academic writing)
+- consensus app
+- DeepL (translation)
+- piktochart (infographics)
+
 ### Articles
 
 - [Replika users fall in love, then lose their AI companions](https://www.abc.net.au/news/science/2023-03-01/replika-users-fell-in-love-with-their-ai-chatbot-companion/102028196)
@@ -33,4 +42,5 @@ can be fine-tuned for more specific needs.
 
 ### Video's 
 
+- [Figure 01: Strong AI robot? (by OpenAI)](https://www.youtube.com/watch?v=Sq1QZB5baNw)
 - [Albert learns to walk (Reinforcement Learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
