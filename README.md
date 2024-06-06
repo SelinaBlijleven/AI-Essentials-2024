@@ -26,3 +26,5 @@ The exercises have all been adapted into the slides.
 ### Articles
 
 ### Video's 
+
+- [Albert Learns to Walk (Reinforcement Learning)](https://www.youtube.com/watch?v=L_4BPjLBF4E)
